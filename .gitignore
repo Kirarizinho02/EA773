@@ -1,0 +1,23 @@
+# Quartus compilation and intermediate files
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+
+# Reports and logs
+*.rpt
+*.summary
+*.done
+*.smsg
+*.msg
+*.log
+*.bak*
+
+# User workspace configuration
+*.qws
+
+# Simulation temporary outputs
+*.vcd
+*.wlf
+transcript
